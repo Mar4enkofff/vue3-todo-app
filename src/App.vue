@@ -1,3 +1,5 @@
+<!-- "deploy": "sh deploy.sh", -->
+
 <template>
   <div class="todoapp">
     <header class="header">
