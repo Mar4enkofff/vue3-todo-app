@@ -1,29 +1,22 @@
 # vue3-todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Implemented a ToDo app using Vue 3 in Vite and API integration. Created a user-friendly interface with intuitive task management features.
 
-## Recommended IDE Setup
+**Live Preview**
+You can view a live demo of the website [HERE](https://mar4enkofff.github.io/vue3-todo-app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+**Built with**
 
-## Customize configuration
+- Vue 3;
+- JavaScript;
+- Preprocessors SCSS;
+- Mobile-first workflow;
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**Installation and Usage**
+Clone the repository
+Install dependencies: npm install
+Run the development server: npm run dev
+Compile and minify for production: npm run build
+Open http://localhost:5173/vue3-todo-app/ in a web browser.
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+https://github.com/Mar4enkofff/vue3-todo-app

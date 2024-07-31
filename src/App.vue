@@ -80,7 +80,7 @@ export default {
           :class="{ active: activeTodos.length === 0 }"
         ></button>
 
-        <form @submit.prevent="handleSubmit">
+        <form @submit.prevent="addTodo">
           <input
             type="text"
             class="todoapp__new-todo"
